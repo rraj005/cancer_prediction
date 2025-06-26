@@ -29,7 +29,7 @@ Before modeling, special focus was given to **making the dataset clean and analy
 - ✅ **Verified column types and structure consistency**
 - ✅ **Re-checked after cleaning with `.isnull().sum()` and `.duplicated().sum()`**
 
-This meticulous data preparation reflects my strong **data cleaning, preprocessing, and organizational skills**, crucial for any Data Analyst role.
+This meticulous data preparation reflects my strong **data cleaning, preprocessing, and organizational skills**.
 
 ---
 
@@ -51,10 +51,6 @@ This meticulous data preparation reflects my strong **data cleaning, preprocessi
 - Wrapped the trained Scikit-learn model inside a **TensorFlow `tf.Module`**.
 - Exported it as a **TensorFlow SavedModel**.
 - Successfully reloaded and performed inference on unseen test data.
-
-### ✅ Bonus: Keras Sequential Model (for practice):
-- Implemented a small **Neural Network using Keras Sequential API**.
-- Trained using **Binary Crossentropy Loss** and **Adam Optimizer**.
 
 ---
 
