@@ -3,8 +3,6 @@
 This project focuses on **Breast Cancer Detection** using **Logistic Regression (Scikit-learn)** and **TensorFlow**.  
 It highlights **data cleaning**, **EDA (Exploratory Data Analysis)**, **model building**, and **model deployment** using TensorFlow's `SavedModel` format.  
 
-This project also demonstrates strong **Data Analyst skills** by thoroughly cleaning and preparing the dataset before modeling.
-
 ---
 
 ## 📂 Dataset Used
